@@ -19,9 +19,12 @@ A manufacturing-ready, optimized 2-layer PCB layout for a 555 Timer Astable Mult
 <img width="3450" height="1886" alt="led flasher 3D" src="https://github.com/user-attachments/assets/a14cd973-b6a2-4264-b440-6c5a44501012" />
 
 
-### 2. PCB Layout (Top & Bottom Layers)
-*(Tip: Add your PCB Layout screenshot here)*
-![PCB Layout](https://via.placeholder.com/600x400.png?text=Add+Your+PCB+Layout+Screenshot+Here)
+### 2. PCB Layout
+#### Top Layer Layout
+<img width="1313" height="1716" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/24c7ae24-a1f0-4285-91fc-3caea8d63c78" />
+
+#### Bottom Layer Layout
+<img width="1283" height="1713" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/9e566e81-e54f-4e72-b053-0f4eb5e56556" />
 
 ---
 
