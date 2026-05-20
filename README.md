@@ -36,8 +36,8 @@ A manufacturing-ready, optimized 2-layer PCB layout for a 555 Timer Astable Mult
 ---
 
 ## 📂 File Structure
-* `/555-Timer-PCB-Design.kicad_sch` - Schematic capture file.
-* `/555-Timer-PCB-Design.kicad_pcb` - PCB Layout file.
+* `led flasher.kicad_sch` - Schematic capture file.
+* `/led flasher.kicad_pcb` - PCB Layout file.
 * `/Gerbers.zip` - Production-ready Gerber and Drill files for manufacturing (compatible with JLCPCB, PCBWay, etc.).
 
 ---
