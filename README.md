@@ -1,6 +1,6 @@
 # 555 Timer Based Astable Multivibrator PCB Design
 
-A manufacturing-ready, optimized 2-layer PCB layout for a 555 Timer Astable Multivibrator circuit, designed using **KiCad 8.0**. This project demonstrates industry-standard PCB design practices, including schematic capture, component placement optimization, ground plane design, and DRC compliance.
+A manufacturing-ready, optimized 2-layer PCB layout for a 555 Timer Astable Multivibrator circuit, designed using **KiCad 10.0**. This project demonstrates industry-standard PCB design practices, including schematic capture, component placement optimization, ground plane design, and DRC compliance.
 
 ---
 
