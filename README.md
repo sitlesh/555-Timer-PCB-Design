@@ -16,8 +16,7 @@ A manufacturing-ready, optimized 2-layer PCB layout for a 555 Timer Astable Mult
 ## 🛠️ Visuals & Design Layout
 
 ### 1. 3D Render View
-*(Tip: Replace this text or link with your actual 3D render image later)*
-![3D Render View](https://via.placeholder.com/600x400.png?text=Add+Your+KiCad+3D+Render+Here)
+![3D Render View](led flasher 3D.png)
 
 ### 2. PCB Layout (Top & Bottom Layers)
 *(Tip: Add your PCB Layout screenshot here)*
